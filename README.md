@@ -6,3 +6,35 @@
 
 ### Network Architecture
 <img src="/figures/pipeline.png">
+
+### Data Generation Pipeline and Examples of Generaterd 2D/3D Data
+<details close>
+<summary><b>Data Generation Pipeline:</b></summary>
+
+![results1](/figures/3D_data_gen_pipeline.png)
+</details>
+
+<details close>
+<summary><b>2D Segmentation Data:</b></summary>
+
+![results1](/figures/2D_seg_results.png)
+</details>
+
+<details close>
+<summary><b>3D Segmentation Data:</b></summary>
+
+![results1](/figures/3D_seg_results.png)
+</details>
+
+### Experimental results
+<details close>
+<summary><b>Quantitative Results on the KITTI Validation Set:</b></summary>
+
+![results1](/figures/quantitative_res.png)
+</details>
+
+<details close>
+<summary><b>Qualitatitve Results:</b></summary>
+
+![results1](/figures/qualitative_res.png)
+</details>
